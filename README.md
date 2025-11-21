@@ -84,5 +84,10 @@ ant 是一个**轻量、可靠的移动端组件库**，于 2017 年开源。
 
 ## [Vuetif](https://vuetifyjs.com/en/)
 
+## [Simple Icons](https://simpleicons.org/)
+
+## <https://shields.io/>
+
 ## 欢迎补充~
 
+[GitHub 仓库](https://github.com/Yue-plus/UIUXDesignCollection/)
